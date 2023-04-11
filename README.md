@@ -3,6 +3,5 @@
 
 
 # CS:GO Autoexec
-My Counter-Strike: Global Offensive config/autoexec.cfg
 
 WIP
